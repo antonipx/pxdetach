@@ -1,5 +1,5 @@
 //
-// fidn and detach all locally attachd but not mounted portworx volumes
+// find and detach all locally attached but not mounted portworx volumes
 //
 package main
 
